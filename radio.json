@@ -1,80 +1,482 @@
 [
   {
-    "changeuuid": "3db869ee-f923-4e51-aa4a-70b4cef75c66",
-    "stationuuid": "78012206-1aa1-11e9-a80b-52543be04c81",
-    "serveruuid": "3d329f86-eb68-4b3d-aabc-2cff320eac8d",
     "name": "Radio orientale الشرقي",
-    "url": "https://radiodzair.net:8070/orientale?shoutcast",
-    "url_resolved": "https://mangoradio.stream.laut.fm/mangoradio",
-    "homepage": "https://mangoradio.de/",
-    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/orie.png",
-    "tags": "music,variety",
-    "country": "Germany",
-    "countrycode": "DE",
-    "iso_3166_2": "DE-RP",
-    "state": "Rheinland-Pfalz",
-    "language": "german",
-    "languagecodes": "DE,EN",
-    "votes": 734523,
-    "lastchangetime": "2025-05-02 23:40:34",
-    "lastchangetime_iso8601": "2025-05-02T23:40:34Z",
-    "codec": "MP3",
-    "bitrate": 128,
-    "hls": 0,
-    "lastcheckok": 1,
-    "lastchecktime": "2025-05-02 23:40:37",
-    "lastchecktime_iso8601": "2025-05-02T23:40:37Z",
-    "lastcheckoktime": "2025-05-02 23:40:37",
-    "lastcheckoktime_iso8601": "2025-05-02T23:40:37Z",
-    "lastlocalchecktime": "2025-05-02 13:14:45",
-    "lastlocalchecktime_iso8601": "2025-05-02T13:14:45Z",
-    "clicktimestamp": "2025-05-03 05:50:03",
-    "clicktimestamp_iso8601": "2025-05-03T05:50:03Z",
-    "clickcount": 7265,
-    "clicktrend": -886,
-    "ssl_error": 0,
-    "geo_lat": null,
-    "geo_long": null,
-    "geo_distance": null,
-    "has_extended_info": false
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8070/orientale?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/orie.png"
   },
   {
-    "changeuuid": "23133dda-0fcd-47c8-8ccc-2d9596659ba7",
-    "stationuuid": "d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
-    "serveruuid": "1ec6ee09-5bd7-4657-85bc-ebcb35bd8dad",
+    "name": "Radio 100% مغاربة",
+    "country": "Algeria",
+    "url_resolved": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/magh.png"
+  },
+  {
+    "name": "Radio tarab  الطرب",
+    "country": "Algeria",
+    "url_resolved": "https://streamer.mada.ps:8201/tarab",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/tara.png"
+  },
+  {
+    "name": "Radio dzair  دزاير",
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8000/dzair?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/dzai.png"
+  },
+  {
     "name": "Radio chaabi  الشعبي",
-    "url": "https://radiodzair.net:8010/chaabia?shoutcast",
-    "url_resolved": "https://icecast.walmradio.com:8443/classic",
-    "homepage": "https://walmradio.com/classic",
-   "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/chaa.png",
-    "tags": "1930,1940,1950,1960,beautiful music,big band,classic hits,crooners,easy,easy listening,hd,jazz,light orchestral,lounge,oldies,orchestral,otr,relaxation,strings,swing,unwind,walm",
-    "country": "The United States Of America",
-    "countrycode": "US",
-    "iso_3166_2": "US-NY",
-    "state": "New York NY",
-    "language": "english",
-    "languagecodes": "en",
-    "votes": 186195,
-    "lastchangetime": "2025-04-22 23:02:12",
-    "lastchangetime_iso8601": "2025-04-22T23:02:12Z",
-    "codec": "MP3",
-    "bitrate": 320,
-    "hls": 0,
-    "lastcheckok": 1,
-    "lastchecktime": "2025-05-02 11:47:11",
-    "lastchecktime_iso8601": "2025-05-02T11:47:11Z",
-    "lastcheckoktime": "2025-05-02 11:47:11",
-    "lastcheckoktime_iso8601": "2025-05-02T11:47:11Z",
-    "lastlocalchecktime": "2025-05-02 08:37:10",
-    "lastlocalchecktime_iso8601": "2025-05-02T08:37:10Z",
-    "clicktimestamp": "2025-05-03 05:54:51",
-    "clicktimestamp_iso8601": "2025-05-03T05:54:51Z",
-    "clickcount": 5662,
-    "clicktrend": -634,
-    "ssl_error": 0,
-    "geo_lat": 40.75166,
-    "geo_long": -73.97538,
-    "geo_distance": null,
-    "has_extended_info": true
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8010/chaabia?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/chaa.png"
+  },
+  {
+    "name": "Radio aures  الشاوي",
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8050/aures?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/aure.png"
+  },
+  {
+    "name": "Radio andalos الأندلسي",
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8020/andaloussia?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/anda.png"
+  },
+  {
+    "name": "Radio sahara  الصحراوي",
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8040/sahara?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/saha.png"
+  },
+  {
+    "name": "Radio izuran القبائلي",
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8030/izuran?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/izur.png"
+  },
+  {
+    "name": "Radio jow rai  جو راي",
+    "country": "Algeria",
+    "url_resolved": "https://ice.creacast.com/jowradio-rai",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/jowr.png"
+  },
+  {
+    "name": "Radio jow   جــو",
+    "country": "Algeria",
+    "url_resolved": "https://ice.creacast.com/jowradio",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/joww.png"
+  },
+  {
+    "name": "Radio jile fm جيل",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Jeunesse_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/jile.png"
+  },
+  {
+    "name": "Radio chaine 1 الأولى",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Chaine1_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cha1.png"
+  },
+  {
+    "name": "Radio chaine 2 الثانية",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Chaine2_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cha2.png"
+  },
+  {
+    "name": "Radio chaine 3 الثانية",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Chaine3_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cha3.png"
+  },
+  {
+    "name": "Radio Internationale الدولية",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Internationale_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/inte.png"
+  },
+  {
+    "name": "Radio Quoran القرآن الكريم",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Coran_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qran.png"
+  },
+  {
+    "name": "Radio culture الثقافية",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Culture_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cult.png"
+  },
+  {
+    "name": "Radio Bahdja البهجة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/bahd.png"
+  },
+  {
+    "name": "Radio Africa Hits أفريكا",
+    "country": "Algeria",
+    "url_resolved": "https://radiodzair.net:8200/radio.mp3?shoutcast",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/afri.png"
+  },
+  {
+    "name": "Radio hawana هوانا",
+    "country": "Algeria",
+    "url_resolved": "http://manager6.streamradio.fr:1980/stream/1/",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/hawa.png"
+  },
+  {
+    "name": "Radio R أر",
+    "country": "Algeria",
+    "url_resolved": "http://radior.video.muni.cz:8000/FSS_mp3-128.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/rrrr.png"
+  },
+  {
+    "name": "Radio hit هيت",
+    "country": "Algeria",
+    "url_resolved": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/hitt.png"
+  },
+  {
+    "name": "Radio nogoum نجوم",
+    "country": "Algeria",
+    "url_resolved": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/nogo.png"
+  },
+  {
+    "name": "Radio beur بور",
+    "country": "Algeria",
+    "url_resolved": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/beur.png"
+  },
+  {
+    "name": "Radio bollywood بوليود",
+    "country": "Algeria",
+    "url_resolved": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/boll.png"
+  },
+  {
+    "name": "Radio Hits 1 هيتس",
+    "country": "Algeria",
+    "url_resolved": "https://radio7.pro-fhi.net/live/Hits1radio",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/hawa.png"
+  },
+  {
+    "name": "Radio Quoran القرآن الكريم",
+    "country": "Algeria",
+    "url_resolved": "http://s2.voscast.com:12312/;",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cora.png"
+  },
+  {
+    "name": "Radio Quoran القرآن الكريم",
+    "country": "Algeria",
+    "url_resolved": "http://live.mp3quran.net:9956/",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/corr.png"
+  },
+  {
+    "name": "Radio Quoran القرآن الكريم",
+    "country": "Algeria",
+    "url_resolved": "https://admdn7ta.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/chunklist.m3u8",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/coor.png"
+  },
+  {
+    "name": "Radio Quoran القرآن الكريم",
+    "country": "Algeria",
+    "url_resolved": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qorr.png"
+  },
+  {
+    "name": "Radio Quoran القرآن الكريم",
+    "country": "Algeria",
+    "url_resolved": "http://listen.radio-coran.net:8000/live.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qooo.png"
+  },
+  {
+    "name": "Radio adrar أدرار",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Adrar_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra01.png"
+  },
+  {
+    "name": "Radio Chlef الشلف",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Chlef_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra02.png"
+  },
+  {
+    "name": "Radio Laghouat الأغواط",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Laghouat_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra03.png"
+  },
+  {
+    "name": "Radio OumBouaghi أم البواقي",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/OumBouaghi_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra04.png"
+  },
+  {
+    "name": "Radio Batna باتنة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Batna_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra05.png"
+  },
+  {
+    "name": "Radio Bejaia بجاية",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Bejaia_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra06.png"
+  },
+  {
+    "name": "Radio Biskra بسكرة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Biskra_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra07.png"
+  },
+  {
+    "name": "Radio Bechar بشار",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Bechar_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra08.png"
+  },
+  {
+    "name": "Radio Blida البليدة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Blida_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra09.png"
+  },
+  {
+    "name": "Radio Bouira البويرة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Bouira_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra10.png"
+  },
+  {
+    "name": "Radio Tamanrasset تمنراست",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Tamanrasset_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra11.png"
+  },
+  {
+    "name": "Radio Tebessa تبسة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Tebessa_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra12.png"
+  },
+  {
+    "name": "Radio Tlemcen تلمسان",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Tlemcen_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra13.png"
+  },
+  {
+    "name": "Radio Tiaret تيارت",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Tiaret_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra14.png"
+  },
+  {
+    "name": "Radio TiziOuzou تيزي وزو",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/TiziOuzou_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra15.png"
+  },
+  {
+    "name": "Radio dzair الجزائر",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra16.png"
+  },
+  {
+    "name": "Radio Djelfa الجلفة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Djelfa_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra17.png"
+  },
+  {
+    "name": "Radio Jijel جيجل",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Jijel_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra18.png"
+  },
+  {
+    "name": "Radio Setif سطيف",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Setif_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra19.png"
+  },
+  {
+    "name": "Radio Saida سعيدة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Saida_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra20.png"
+  },
+  {
+    "name": "Radio Skikda سكيكدة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Skikda_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra21.png"
+  },
+  {
+    "name": "Radio SidiBelabes بلعباس",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/SidiBelabes_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra22.png"
+  },
+  {
+    "name": "Radio Annaba عنابة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Annaba_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra23.png"
+  },
+  {
+    "name": "Radio Guelma قالمة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Guelma_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra24.png"
+  },
+  {
+    "name": "Radio Constantine قسنطينة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Constantine_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra25.png"
+  },
+  {
+    "name": "Radio Medea المدية",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Medea_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra26.png"
+  },
+  {
+    "name": "Radio Mostaganem مستغانم",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Mostaganem_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra27.png"
+  },
+  {
+    "name": "Radio Msila المسيلة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Msila_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra28.png"
+  },
+  {
+    "name": "Radio Mascara معسكر",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Mascara_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra29.png"
+  },
+  {
+    "name": "Radio Ouargla ورقلة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Ouargla_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra30.png"
+  },
+  {
+    "name": "Radio Oran وهران",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Oran_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra31.png"
+  },
+  {
+    "name": "Radio ElBayedh البيض",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/ElBayedh_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra32.png"
+  },
+  {
+    "name": "Radio Illizi إيليزي",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Illizi_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra33.png"
+  },
+  {
+    "name": "Radio BordjBouArreridj البرج",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/BordjBouArreridj_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra34.png"
+  },
+  {
+    "name": "Radio Boumerdes بومرداس",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Boumerdes_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra35.png"
+  },
+  {
+    "name": "Radio Taref الطارف",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Taref_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra36.png"
+  },
+  {
+    "name": "Radio Tindouf تندوف",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Tindouf_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra37.png"
+  },
+  {
+    "name": "Radio Tissemssilt تسمسيلت",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Tissemssilt_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra38.png"
+  },
+  {
+    "name": "Radio ouedSouf واد سوف",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/ouedSouf_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra39.png"
+  },
+  {
+    "name": "Radio Khenchela خنشلة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Khenchela_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra40.png"
+  },
+  {
+    "name": "Radio SoukAhras سوق أهراس",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/SoukAhras_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra41.png"
+  },
+  {
+    "name": "Radio Tipaza تبازة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Tipaza_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra42.png"
+  },
+  {
+    "name": "Radio Mila ميلة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Mila_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra43.png"
+  },
+  {
+    "name": "Radio AinDefla عين الدفلى",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/AinDefla_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra44.png"
+  },
+  {
+    "name": "Radio Naama النعامة",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Naama_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra45.png"
+  },
+  {
+    "name": "Radio Timouchent تموشنت",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/AinTimouchent_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra46.png"
+  },
+  {
+    "name": "Radio Ghardaia غرداية",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Ghardaia_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra47.png"
+  },
+  {
+    "name": "Radio Relizan غليزان",
+    "country": "Algeria",
+    "url_resolved": "https://webradio.tda.dz/Relizan_64K.mp3",
+    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/ra48.png"
   }
 ]
