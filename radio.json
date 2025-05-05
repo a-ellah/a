@@ -3,7 +3,7 @@
     "stationuuid": "Radioorientaleالشرقي",
     "name": "Radio orientale الشرقي",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8070/orientale?shoutcast",
+    "url": "https://radio-dzair.net/proxy/orientale/orientale?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/orie.png"
   },
   {
@@ -24,42 +24,42 @@
     "stationuuid": "Radiodzairدزاير",
     "name": "Radio dzair  دزاير",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8000/dzair?shoutcast",
+    "url": "https://radio-dzair.net/proxy/dzair/dzair?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/dzai.png"
   },
   {
     "stationuuid": "Radiochaabiالشعبي",
     "name": "Radio chaabi  الشعبي",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8010/chaabia?shoutcast",
+    "url": "https://radio-dzair.net/proxy/chaabia/chaabia?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/chaa.png"
   },
   {
     "stationuuid": "Radioauresالشاوي",
     "name": "Radio aures  الشاوي",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8050/aures?shoutcast",
+    "url": "https://radio-dzair.net/proxy/aures/aures?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/aure.png"
   },
   {
     "stationuuid": "Radioandalosالأندلسي",
     "name": "Radio andalos الأندلسي",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8020/andaloussia?shoutcast",
+    "url": "https://radio-dzair.net/proxy/andaloussia/andaloussia?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/anda.png"
   },
   {
     "stationuuid": "Radiosaharaالصحراوي",
     "name": "Radio sahara  الصحراوي",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8040/sahara?shoutcast",
+    "url": "https://radio-dzair.net/proxy/sahara/sahara?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/saha.png"
   },
   {
     "stationuuid": "Radioizuranالقبائلي",
     "name": "Radio izuran القبائلي",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8030/izuran?shoutcast",
+    "url": "https://radio-dzair.net/proxy/izuran/izuran?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/izur.png"
   },
   {
@@ -136,7 +136,7 @@
     "stationuuid": "RadioAfricaHitsأفريكا",
     "name": "Radio Africa Hits أفريكا",
     "country": "Algeria",
-    "url": "https://radiodzair.net:8200/radio.mp3?shoutcast",
+    "url": "https://radio-dzair.net/proxy/radio.mp3?shoutcast",
     "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/afri.png"
   },
   {
