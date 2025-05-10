@@ -1,0 +1,82 @@
+[
+  {
+    "name": "arabic",
+    "iso_639": "ar",
+    "stationcount": 526
+  },
+  {
+    "name": "spanish",
+    "iso_639": "es",
+    "stationcount": 4412
+  },
+  {
+    "name": "english",
+    "iso_639": "en",
+    "stationcount": 11457
+  },
+  {
+    "name": "french",
+    "iso_639": "fr",
+    "stationcount": 2175
+  },
+  {
+    "name": "german",
+    "iso_639": "de",
+    "stationcount": 4026
+  },
+  {
+    "name": "italian",
+    "iso_639": "it",
+    "stationcount": 1257
+  },
+  {
+    "name": "russian",
+    "iso_639": "ru",
+    "stationcount": 1790
+  },
+  {
+    "name": "chinese",
+    "iso_639": "zh",
+    "stationcount": 2014
+  },
+  {
+    "name": "greek",
+    "iso_639": "el",
+    "stationcount": 1129
+  },
+  {
+    "name": "dutch",
+    "iso_639": "nl",
+    "stationcount": 745
+  },
+  {
+    "name": "portuguese",
+    "iso_639": "pt",
+    "stationcount": 586
+  },
+  {
+    "name": "turkish",
+    "iso_639": "tr",
+    "stationcount": 208
+  },
+  {
+    "name": "polish",
+    "iso_639": "pl",
+    "stationcount": 790
+  },
+  {
+    "name": "japanese",
+    "iso_639": "ja",
+    "stationcount": 174
+  },
+  {
+    "name": "hungarian",
+    "iso_639": "hu",
+    "stationcount": 233
+  },
+  {
+    "name": "hindi",
+    "iso_639": "hi",
+    "stationcount": 536
+  }
+]
