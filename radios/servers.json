@@ -1,8 +1,8 @@
 [
-  { "ip": "01", "name": "radios.Arabic" },
-  { "ip": "02", "name": "Radios.English" },
-  { "ip": "03", "name": "Radios.franch" },
-  { "ip": "1", "name": "radios.Arabic" },
-  { "ip": "2", "name": "Radios.English" },
-  { "ip": "3", "name": "Radios.franch" }
+  { "ip": "2a01:4f8:c2c:f004::1", "name": "Arabic-radio-browser.info" },
+  { "ip": "2a01:4f9:c012:3620::1", "name": "English-radio-browser.info" },
+  { "ip": "2a0a:4cc0:c0:27c1::1", "name": "franch-radio-browser.info" },
+  { "ip": "89.58.16.17", "name": "Arabic-radio-browser.info" },
+  { "ip": "89.58.16.18", "name": "English-radio-browser.info" },
+  { "ip": "89.58.16.19", "name": "franch-radio-browser.info" }
 ]
