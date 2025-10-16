@@ -1,0 +1,644 @@
+[
+  {
+    "id": "cora",
+    "name": "Radio Quoran Kareem إذاعــة القرآن الكريم",
+    "streamUrl": "http://s2.voscast.com:12312/;",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "corr",
+    "name": "MP3 Quran المكتبة الصوتية للقرآن الكريم",
+    "streamUrl": "http://live.mp3quran.net:9956/",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "coor",
+    "name": "Radio Quoran إذاعــة القرآن",
+    "streamUrl": "https://admdn7ta.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/chunklist.m3u8",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "qorr",
+    "name": "93.1 إذاعــة القرآن الكريم",
+    "streamUrl": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "qooo",
+    "name": "Radio Quoran القرآن الكريم",
+    "streamUrl": "http://listen.radio-coran.net:8000/live.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+
+  {
+    "id": "cha1",
+    "name": "Radio chaine 1 الإذاعــة الأولى",
+    "streamUrl": "https://webradio.tda.dz/Chaine1_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "cha2",
+    "name": "Radio chaine 2 الإذاعــة الثانية",
+    "streamUrl": "https://webradio.tda.dz/Chaine2_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "cha3",
+    "name": "Radio chaine 3 الإذاعــة الثانية",
+    "streamUrl": "https://webradio.tda.dz/Chaine3_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "inte",
+    "name": "Radio Internationale الإذاعــة الدولية",
+    "streamUrl": "https://webradio.tda.dz/Internationale_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "qran",
+    "name": "Radio Quoran إذاعــة القرآن الكريم",
+    "streamUrl": "https://webradio.tda.dz/Coran_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "cult",
+    "name": "Radio culture الإذاعــة الثقافية",
+    "streamUrl": "https://webradio.tda.dz/Culture_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "bahd",
+    "name": "Radio Bahdja إذاعــة البهجة",
+    "streamUrl": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "orie",
+    "name": "Radio orientale إذاعــة الشرقي",
+    "streamUrl": "https://radiodzair.net:8070/orientale?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "magh",
+    "name": "Radio 100% إذاعــة 100% مغاربة",
+    "streamUrl": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "tara",
+    "name": "Radio tarab  إذاعــة الطرب",
+    "streamUrl": "https://streaming2.rimradio.ma/livetarab",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "dzai",
+    "name": "Radio dzair  إذاعــة دزاير",
+    "streamUrl": "https://radiodzair.net:8000/dzair?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "chaa",
+    "name": "Radio chaabi  إذاعــة الشعبي",
+    "streamUrl": "https://radiodzair.net:8010/chaabia?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "aure",
+    "name": "Radio aures  إذاعــة الشاوي",
+    "streamUrl": "https://radiodzair.net:8050/aures?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "anda",
+    "name": "Radio andalos إذاعــة الأندلسي",
+    "streamUrl": "https://radiodzair.net:8020/andaloussia?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "saha",
+    "name": "Radio sahara  إذاعــة الصحراوي",
+    "streamUrl": "https://radiodzair.net:8040/sahara?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "izur",
+    "name": "Radio izuran إذاعــة القبائلي",
+    "streamUrl": "https://radiodzair.net:8030/izuran?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "jowr",
+    "name": "Radio jow rai  إذاعــة جو راي",
+    "streamUrl": "https://ice.creacast.com/jowradio-rai",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "joww",
+    "name": "Radio jow   إذاعــة جــو",
+    "streamUrl": "https://ice.creacast.com/jowradio",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "jile",
+    "name": "Radio jile fm إذاعــة جيل",
+    "streamUrl": "https://webradio.tda.dz/Jeunesse_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "afri",
+    "name": "Radio Africa Hits إذاعــة أفريكا",
+    "streamUrl": "https://radiodzair.net:8200/radio.mp3?shoutcast",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "hawa",
+    "name": "Radio hawana إذاعــة هوانا",
+    "streamUrl": "http://manager6.streamradio.fr:1980/stream/1/",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "rrrr",
+    "name": "Radio R إذاعــة أر",
+    "streamUrl": "http://radior.video.muni.cz:8000/FSS_mp3-128.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "hitt",
+    "name": "Radio hit إذاعــة هيت",
+    "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "nogo",
+    "name": "Radio nogoum إذاعــة نجوم",
+    "streamUrl": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "beur",
+    "name": "Radio beur إذاعــة بور",
+    "streamUrl": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "boll",
+    "name": "Radio bollywood إذاعــة بوليود",
+    "streamUrl": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "hawa",
+    "name": "Radio Hits 1 إذاعــة هيتس",
+    "streamUrl": "https://radio7.pro-fhi.net/live/Hits1radio",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+
+  {
+    "id": "ra01",
+    "name": "Radio adrar إذاعــة أدرار",
+    "streamUrl": "https://webradio.tda.dz/Adrar_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra02",
+    "name": "Radio Chlef إذاعــة الشلف",
+    "streamUrl": "https://webradio.tda.dz/Chlef_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra03",
+    "name": "Radio Laghouat إذاعــة الأغواط",
+    "streamUrl": "https://webradio.tda.dz/Laghouat_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra04",
+    "name": "Radio OumBouaghi إذاعــة أم البواقي",
+    "streamUrl": "https://webradio.tda.dz/OumBouaghi_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra05",
+    "name": "Radio Batna إذاعــة باتنة",
+    "streamUrl": "https://webradio.tda.dz/Batna_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra06",
+    "name": "Radio Bejaia إذاعــة بجاية",
+    "streamUrl": "https://webradio.tda.dz/Bejaia_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra07",
+    "name": "Radio Biskra إذاعــة بسكرة",
+    "streamUrl": "https://webradio.tda.dz/Biskra_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra08",
+    "name": "Radio Bechar إذاعــة بشار",
+    "streamUrl": "https://webradio.tda.dz/Bechar_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra09",
+    "name": "Radio Blida إذاعــة البليدة",
+    "streamUrl": "https://webradio.tda.dz/Blida_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra10",
+    "name": "Radio Bouira إذاعــة البويرة",
+    "streamUrl": "https://webradio.tda.dz/Bouira_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra11",
+    "name": "Radio Tamanrasset إذاعــة تمنراست",
+    "streamUrl": "https://webradio.tda.dz/Tamanrasset_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra12",
+    "name": "Radio Tebessa إذاعــة تبسة",
+    "streamUrl": "https://webradio.tda.dz/Tebessa_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra13",
+    "name": "Radio Tlemcen إذاعــة تلمسان",
+    "streamUrl": "https://webradio.tda.dz/Tlemcen_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra14",
+    "name": "Radio Tiaret إذاعــة تيارت",
+    "streamUrl": "https://webradio.tda.dz/Tiaret_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra15",
+    "name": "Radio TiziOuzou إذاعــة تيزي وزو",
+    "streamUrl": "https://webradio.tda.dz/TiziOuzou_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra16",
+    "name": "Radio dzair إذاعــة الجزائر",
+    "streamUrl": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra17",
+    "name": "Radio Djelfa إذاعــة الجلفة",
+    "streamUrl": "https://webradio.tda.dz/Djelfa_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra18",
+    "name": "Radio Jijel إذاعــة جيجل",
+    "streamUrl": "https://webradio.tda.dz/Jijel_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra19",
+    "name": "Radio Setif إذاعــة سطيف",
+    "streamUrl": "https://webradio.tda.dz/Setif_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra20",
+    "name": "Radio Saida إذاعــة سعيدة",
+    "streamUrl": "https://webradio.tda.dz/Saida_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra21",
+    "name": "Radio Skikda إذاعــة سكيكدة",
+    "streamUrl": "https://webradio.tda.dz/Skikda_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra22",
+    "name": "Radio SidiBelabes إذاعــة بلعباس",
+    "streamUrl": "https://webradio.tda.dz/SidiBelabes_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra23",
+    "name": "Radio Annaba إذاعــة عنابة",
+    "streamUrl": "https://webradio.tda.dz/Annaba_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra24",
+    "name": "Radio Guelma إذاعــة قالمة",
+    "streamUrl": "https://webradio.tda.dz/Guelma_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra25",
+    "name": "Radio Constantine إذاعــة قسنطينة",
+    "streamUrl": "https://webradio.tda.dz/Constantine_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra26",
+    "name": "Radio Medea إذاعــة المدية",
+    "streamUrl": "https://webradio.tda.dz/Medea_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra27",
+    "name": "Radio Mostaganem إذاعــة مستغانم",
+    "streamUrl": "https://webradio.tda.dz/Mostaganem_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra28",
+    "name": "Radio Msila إذاعــة المسيلة",
+    "streamUrl": "https://webradio.tda.dz/Msila_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra29",
+    "name": "Radio Mascara إذاعــة معسكر",
+    "streamUrl": "https://webradio.tda.dz/Mascara_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra30",
+    "name": "Radio Ouargla إذاعــة ورقلة",
+    "streamUrl": "https://webradio.tda.dz/Ouargla_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra31",
+    "name": "Radio Oran إذاعــة وهران",
+    "streamUrl": "https://webradio.tda.dz/Oran_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra32",
+    "name": "Radio ElBayedh إذاعــة البيض",
+    "streamUrl": "https://webradio.tda.dz/ElBayedh_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra33",
+    "name": "Radio Illizi إذاعــة إيليزي",
+    "streamUrl": "https://webradio.tda.dz/Illizi_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra34",
+    "name": "Radio BordjBouArreridj إذاعــة برج بوعريريج",
+    "streamUrl": "https://webradio.tda.dz/BordjBouArreridj_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra35",
+    "name": "Radio Boumerdes إذاعــة بومرداس",
+    "streamUrl": "https://webradio.tda.dz/Boumerdes_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra36",
+    "name": "Radio Taref إذاعــة الطارف",
+    "streamUrl": "https://webradio.tda.dz/Taref_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra37",
+    "name": "Radio Tindouf إذاعــة تندوف",
+    "streamUrl": "https://webradio.tda.dz/Tindouf_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra38",
+    "name": "Radio Tissemssilt إذاعــة تيسمسيلت",
+    "streamUrl": "https://webradio.tda.dz/Tissemssilt_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra39",
+    "name": "Radio ouedSouf إذاعــة واد سوف",
+    "streamUrl": "https://webradio.tda.dz/ouedSouf_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra40",
+    "name": "Radio Khenchela إذاعــة خنشلة",
+    "streamUrl": "https://webradio.tda.dz/Khenchela_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra41",
+    "name": "Radio SoukAhras إذاعــة سوق أهراس",
+    "streamUrl": "https://webradio.tda.dz/SoukAhras_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra42",
+    "name": "Radio Tipaza إذاعــة تيبازة",
+    "streamUrl": "https://webradio.tda.dz/Tipaza_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra43",
+    "name": "Radio Mila إذاعــة ميلة",
+    "streamUrl": "https://webradio.tda.dz/Mila_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra44",
+    "name": "Radio AinDefla إذاعــة عين الدفلى",
+    "streamUrl": "https://webradio.tda.dz/AinDefla_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra45",
+    "name": "Radio Naama إذاعــة النعامة",
+    "streamUrl": "https://webradio.tda.dz/Naama_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra46",
+    "name": "Radio Timouchent إذاعــة تموشنت",
+    "streamUrl": "https://webradio.tda.dz/AinTimouchent_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra47",
+    "name": "Radio Ghardaia إذاعــة غرداية",
+    "streamUrl": "https://webradio.tda.dz/Ghardaia_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  },
+  {
+    "id": "ra48",
+    "name": "Radio Relizan إذاعــة غليزان",
+    "streamUrl": "https://webradio.tda.dz/Relizan_64K.mp3",
+    "frequency": 90.0,
+    "address": "Algeria",
+    "province": 3
+  }
+]
