@@ -1,5 +1,15 @@
 [
   {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/qr.jpg",
+    "title": "apps",
+    "url": "Q R"
+  },
+  {
+    "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/book.jpg",
+    "title": "apps",
+    "url": "books"
+  },
+  {
     "logo": "https://raw.githubusercontent.com/a-ellah/iptv/refs/heads/main/chero/apps.jpg",
     "title": "apps",
     "url": "applications"
