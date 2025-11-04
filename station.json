@@ -214,19 +214,116 @@
     "province": 4
   },
   {
-    "id": "hitt",
-    "name": "Radio hit إذاعــة هيت",
-    "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "id": "hits1",
+    "name": "Radio Hits 1 إذاعــة هيتس",
+    "streamUrl": "https://hits1-audiomediaradio.radioca.st/hits1",
     "frequency": null,
     "address": "Algeria",
     "province": 4
   },
   {
-    "id": "nogo",
-    "name": "Radio nogoum إذاعــة نجوم",
-    "streamUrl": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
+    "id": "marina",
+    "name": "Radio MARINA Fm إذاعــة مرينا",
+    "streamUrl": "https://ffs3.gulfsat.com/MARINA-FM-904/tracks-a1/mono.m3u8",
     "frequency": null,
-    "address": "Algeria",
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "alarabiya",
+    "name": "Radio alarabiya Fm إذاعــة العربية",
+    "streamUrl": "https://fm.alarabiya.net/fm/myStream/chunklist_w1443805311.m3u8",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "aljazeera",
+    "name": "Radio Aljazeera إذاعــة الجزيرة",
+    "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "asharq",
+    "name": "Radio asharq إذاعــة الشرق",
+    "streamUrl": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/chunks.m3u8",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "montecarlo",
+    "name": "Radio Montecarlo إذاعــة مونت كارلو",
+    "streamUrl": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "jeddah",
+    "name": "Radio jeddah إذاعــة جدة",
+    "streamUrl": "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "sunna",
+    "name": "Radio Sunna إذاعــة السنة",
+    "streamUrl": "http://andromeda.shoutca.st:8189/stream",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "arabian",
+    "name": "Radio Arabian Love إذاعــة عربيان  ",
+    "streamUrl": "http://s9.yesstreaming.net:7036/stream",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "dahab",
+    "name": "Radio Dahab  راديو دهب",
+    "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+
+  {
+    "id": "husna",
+    "name": "Radio Husna إذاعــة حسنى",
+    "streamUrl": "https://s2.voscast.com:10445/stream",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "yaqeen",
+    "name": "Radio Yaqeen FM  إذاعــة يقين",
+    "streamUrl": "http://45.63.116.205:8000/stream4",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "allzic",
+    "name": "Radio Allzic إذاعــة أليز",
+    "streamUrl": "https://allzic33.ice.infomaniak.ch/allzic33.mp3",
+    "frequency": null,
+    "address": null,
+    "province": 4
+  },
+  {
+    "id": "amrdiab",
+    "name": "Radio AMR DIAB FM إذاعــة عمرو ذياب",
+    "streamUrl": "https://stream-153.zeno.fm/xa4yhh4k838uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4YTR5aGg0azgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRtSGE4Z1l6VDFXMXVhQjhLUVdTbUEiLCJpYXQiOjE3NjIyODIyNDQsImV4cCI6MTc2MjI4MjMwNH0._d7znxUChi5V7x33JIWJsiNWu5mebVAtEggHuI0ixaY&adtonosListenerId=01H0QN7N0FWX24VBHTFRG8BQWH&amb-uid=3898065775428749197&an-uid=0&aw_0_req_lsid=a577bf4b67647738ae1c2364893d5cad&dot-uid=0ab2220300c5665293f3e767&triton-uid=cookie%3A26424d7d-26e2-4560-a3ef-c11d253ab62c",
+    "frequency": null,
+    "address": null,
     "province": 4
   },
   {
