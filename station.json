@@ -43,7 +43,7 @@
   {
     "id": "cha1",
     "name": "Radio chaine 1 الإذاعــة الأولى",
-    "streamUrl": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3  ",
+    "streamUrl": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 3
@@ -51,7 +51,7 @@
   {
     "id": "cha2",
     "name": "Radio chaine 2 الإذاعــة الثانية",
-    "streamUrl": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3  ",
+    "streamUrl": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 3
@@ -59,7 +59,7 @@
   {
     "id": "cha3",
     "name": "Radio chaine 3 الإذاعــة الثالثة",
-    "streamUrl": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3  ",
+    "streamUrl": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 3
@@ -67,7 +67,7 @@
   {
     "id": "inte",
     "name": "Radio Internationale الإذاعــة الدولية",
-    "streamUrl": "https://radiointernationale.ice.infomaniak.ch/internationale.mp3  ",
+    "streamUrl": "https://radiointernationale.ice.infomaniak.ch/internationale.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 3
@@ -75,7 +75,7 @@
   {
     "id": "qran",
     "name": "Radio Quoran إذاعــة القرآن الكريم",
-    "streamUrl": "https://radiocoran.ice.infomaniak.ch/coran.mp3  ",
+    "streamUrl": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 1
@@ -83,7 +83,7 @@
   {
     "id": "cult",
     "name": "Radio culture الإذاعــة الثقافية",
-    "streamUrl": "https://radioculture.ice.infomaniak.ch/culture.mp3  ",
+    "streamUrl": "https://radioculture.ice.infomaniak.ch/culture.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 2
@@ -91,7 +91,7 @@
   {
     "id": "bahd",
     "name": "Radio Bahdja إذاعــة البهجة",
-    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3  ",
+    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 2
@@ -184,7 +184,7 @@
   {
     "id": "jile",
     "name": "Radio jile fm إذاعــة جيل",
-    "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3  ",
+    "streamUrl": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 4
@@ -257,7 +257,7 @@
   {
     "id": "ra01",
     "name": "Radio adrar إذاعــة أدرار",
-    "streamUrl": "https://radioadrar.ice.infomaniak.ch/adrar.mp3  ",
+    "streamUrl": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -265,7 +265,7 @@
   {
     "id": "ra02",
     "name": "Radio Chlef إذاعــة الشلف",
-    "streamUrl": "https://radiochlef.ice.infomaniak.ch/chlef.mp3  ",
+    "streamUrl": "https://radiochlef.ice.infomaniak.ch/chlef.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -273,7 +273,7 @@
   {
     "id": "ra03",
     "name": "Radio Laghouat إذاعــة الأغواط",
-    "streamUrl": "https://radiolaghouat.ice.infomaniak.ch/laghouat.mp3  ",
+    "streamUrl": "https://radiolaghouat.ice.infomaniak.ch/laghouat.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -281,7 +281,7 @@
   {
     "id": "ra04",
     "name": "Radio OumBouaghi إذاعــة أم البواقي",
-    "streamUrl": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3  ",
+    "streamUrl": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -289,7 +289,7 @@
   {
     "id": "ra05",
     "name": "Radio Batna إذاعــة باتنة",
-    "streamUrl": "https://radiobatna.ice.infomaniak.ch/batna.mp3  ",
+    "streamUrl": "https://radiobatna.ice.infomaniak.ch/batna.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -297,7 +297,7 @@
   {
     "id": "ra06",
     "name": "Radio Bejaia إذاعــة بجاية",
-    "streamUrl": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3  ",
+    "streamUrl": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -305,7 +305,7 @@
   {
     "id": "ra07",
     "name": "Radio Biskra إذاعــة بسكرة",
-    "streamUrl": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3  ",
+    "streamUrl": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -313,7 +313,7 @@
   {
     "id": "ra08",
     "name": "Radio Bechar إذاعــة بشار",
-    "streamUrl": "https://radiobechar.ice.infomaniak.ch/bechar.mp3  ",
+    "streamUrl": "https://radiobechar.ice.infomaniak.ch/bechar.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -321,7 +321,7 @@
   {
     "id": "ra09",
     "name": "Radio Blida إذاعــة البليدة",
-    "streamUrl": "https://radioblida.ice.infomaniak.ch/blida.mp3  ",
+    "streamUrl": "https://radioblida.ice.infomaniak.ch/blida.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -329,7 +329,7 @@
   {
     "id": "ra10",
     "name": "Radio Bouira إذاعــة البويرة",
-    "streamUrl": "https://radiobouira.ice.infomaniak.ch/bouira.mp3  ",
+    "streamUrl": "https://radiobouira.ice.infomaniak.ch/bouira.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -337,7 +337,7 @@
   {
     "id": "ra11",
     "name": "Radio Tamanrasset إذاعــة تمنراست",
-    "streamUrl": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3  ",
+    "streamUrl": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -345,7 +345,7 @@
   {
     "id": "ra12",
     "name": "Radio Tebessa إذاعــة تبسة",
-    "streamUrl": "https://radiotebessa.ice.infomaniak.ch/tebessa.mp3  ",
+    "streamUrl": "https://radiotebessa.ice.infomaniak.ch/tebessa.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -353,7 +353,7 @@
   {
     "id": "ra13",
     "name": "Radio Tlemcen إذاعــة تلمسان",
-    "streamUrl": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3  ",
+    "streamUrl": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -361,7 +361,7 @@
   {
     "id": "ra14",
     "name": "Radio Tiaret إذاعــة تيارت",
-    "streamUrl": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3  ",
+    "streamUrl": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -369,7 +369,7 @@
   {
     "id": "ra15",
     "name": "Radio TiziOuzou إذاعــة تيزي وزو",
-    "streamUrl": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3  ",
+    "streamUrl": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -377,7 +377,7 @@
   {
     "id": "ra16",
     "name": "Radio dzair إذاعــة الجزائر",
-    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3  ",
+    "streamUrl": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -385,7 +385,7 @@
   {
     "id": "ra17",
     "name": "Radio Djelfa إذاعــة الجلفة",
-    "streamUrl": "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3  ",
+    "streamUrl": "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -393,7 +393,7 @@
   {
     "id": "ra18",
     "name": "Radio Jijel إذاعــة جيجل",
-    "streamUrl": "https://radiojijel.ice.infomaniak.ch/jijel.mp3  ",
+    "streamUrl": "https://radiojijel.ice.infomaniak.ch/jijel.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -401,7 +401,7 @@
   {
     "id": "ra19",
     "name": "Radio Setif إذاعــة سطيف",
-    "streamUrl": "https://radiosetif.ice.infomaniak.ch/setif.mp3  ",
+    "streamUrl": "https://radiosetif.ice.infomaniak.ch/setif.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -409,7 +409,7 @@
   {
     "id": "ra20",
     "name": "Radio Saida إذاعــة سعيدة",
-    "streamUrl": "https://radiosaida.ice.infomaniak.ch/saida.mp3  ",
+    "streamUrl": "https://radiosaida.ice.infomaniak.ch/saida.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -417,7 +417,7 @@
   {
     "id": "ra21",
     "name": "Radio Skikda إذاعــة سكيكدة",
-    "streamUrl": "https://radioskikda.ice.infomaniak.ch/skikda.mp3  ",
+    "streamUrl": "https://radioskikda.ice.infomaniak.ch/skikda.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -425,7 +425,7 @@
   {
     "id": "ra22",
     "name": "Radio SidiBelabes إذاعــة بلعباس",
-    "streamUrl": "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3  ",
+    "streamUrl": "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -433,7 +433,7 @@
   {
     "id": "ra23",
     "name": "Radio Annaba إذاعــة عنابة",
-    "streamUrl": "https://radioannaba.ice.infomaniak.ch/annaba.mp3  ",
+    "streamUrl": "https://radioannaba.ice.infomaniak.ch/annaba.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -441,7 +441,7 @@
   {
     "id": "ra24",
     "name": "Radio Guelma إذاعــة قالمة",
-    "streamUrl": "https://radioguelma.ice.infomaniak.ch/guelma.mp3  ",
+    "streamUrl": "https://radioguelma.ice.infomaniak.ch/guelma.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -449,7 +449,7 @@
   {
     "id": "ra25",
     "name": "Radio Constantine إذاعــة قسنطينة",
-    "streamUrl": "https://radioconstantine.ice.infomaniak.ch/constantine.mp3  ",
+    "streamUrl": "https://radioconstantine.ice.infomaniak.ch/constantine.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -457,7 +457,7 @@
   {
     "id": "ra26",
     "name": "Radio Medea إذاعــة المدية",
-    "streamUrl": "https://radiomedea.ice.infomaniak.ch/medea.mp3  ",
+    "streamUrl": "https://radiomedea.ice.infomaniak.ch/medea.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -465,7 +465,7 @@
   {
     "id": "ra27",
     "name": "Radio Mostaganem إذاعــة مستغانم",
-    "streamUrl": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3  ",
+    "streamUrl": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -473,7 +473,7 @@
   {
     "id": "ra28",
     "name": "Radio Msila إذاعــة المسيلة",
-    "streamUrl": "https://radiomsila.ice.infomaniak.ch/msila.mp3  ",
+    "streamUrl": "https://radiomsila.ice.infomaniak.ch/msila.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -481,7 +481,7 @@
   {
     "id": "ra29",
     "name": "Radio Mascara إذاعــة معسكر",
-    "streamUrl": "https://radiomascara.ice.infomaniak.ch/mascara.mp3  ",
+    "streamUrl": "https://radiomascara.ice.infomaniak.ch/mascara.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -489,7 +489,7 @@
   {
     "id": "ra30",
     "name": "Radio Ouargla إذاعــة ورقلة",
-    "streamUrl": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3  ",
+    "streamUrl": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -497,7 +497,7 @@
   {
     "id": "ra31",
     "name": "Radio Oran إذاعــة وهران",
-    "streamUrl": "https://radiooran.ice.infomaniak.ch/oran.mp3  ",
+    "streamUrl": "https://radiooran.ice.infomaniak.ch/oran.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -505,7 +505,7 @@
   {
     "id": "ra32",
     "name": "Radio ElBayedh إذاعــة البيض",
-    "streamUrl": "https://radioelbayedh.ice.infomaniak.ch/elbayedh.mp3  ",
+    "streamUrl": "https://radioelbayedh.ice.infomaniak.ch/elbayedh.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -513,7 +513,7 @@
   {
     "id": "ra33",
     "name": "Radio Illizi إذاعــة إيليزي",
-    "streamUrl": "https://radioillizi.ice.infomaniak.ch/illizi.mp3  ",
+    "streamUrl": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -521,7 +521,7 @@
   {
     "id": "ra34",
     "name": "Radio BordjBouArreridj إذاعــة برج بوعريريج",
-    "streamUrl": "https://radiobordjbouarreridj.ice.infomaniak.ch/bordjbouarreridj.mp3  ",
+    "streamUrl": "https://radiobordjbouarreridj.ice.infomaniak.ch/bordjbouarreridj.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -529,7 +529,7 @@
   {
     "id": "ra35",
     "name": "Radio Boumerdes إذاعــة بومرداس",
-    "streamUrl": "https://radioboumerdes.ice.infomaniak.ch/boumerdes.mp3  ",
+    "streamUrl": "https://radioboumerdes.ice.infomaniak.ch/boumerdes.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -537,7 +537,7 @@
   {
     "id": "ra36",
     "name": "Radio Taref إذاعــة الطارف",
-    "streamUrl": "https://radiotaref.ice.infomaniak.ch/taref.mp3  ",
+    "streamUrl": "https://radiotaref.ice.infomaniak.ch/taref.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -545,7 +545,7 @@
   {
     "id": "ra37",
     "name": "Radio Tindouf إذاعــة تندوف",
-    "streamUrl": "https://radiotindouf.ice.infomaniak.ch/tindouf.mp3  ",
+    "streamUrl": "https://radiotindouf.ice.infomaniak.ch/tindouf.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -553,7 +553,7 @@
   {
     "id": "ra38",
     "name": "Radio Tissemssilt إذاعــة تيسمسيلت",
-    "streamUrl": "https://radiotissemssilt.ice.infomaniak.ch/tissemssilt.mp3  ",
+    "streamUrl": "https://radiotissemssilt.ice.infomaniak.ch/tissemssilt.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -561,7 +561,7 @@
   {
     "id": "ra39",
     "name": "Radio ouedSouf إذاعــة واد سوف",
-    "streamUrl": "https://radiouedsouf.ice.infomaniak.ch/ouedsouf.mp3  ",
+    "streamUrl": "https://radiouedsouf.ice.infomaniak.ch/ouedsouf.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -569,7 +569,7 @@
   {
     "id": "ra40",
     "name": "Radio Khenchela إذاعــة خنشلة",
-    "streamUrl": "https://radiokhenchela.ice.infomaniak.ch/khenchela.mp3  ",
+    "streamUrl": "https://radiokhenchela.ice.infomaniak.ch/khenchela.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -577,7 +577,7 @@
   {
     "id": "ra41",
     "name": "Radio SoukAhras إذاعــة سوق أهراس",
-    "streamUrl": "https://radiosoukahras.ice.infomaniak.ch/soukahras.mp3  ",
+    "streamUrl": "https://radiosoukahras.ice.infomaniak.ch/soukahras.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -585,7 +585,7 @@
   {
     "id": "ra42",
     "name": "Radio Tipaza إذاعــة تيبازة",
-    "streamUrl": "https://radiotipaza.ice.infomaniak.ch/tipaza.mp3  ",
+    "streamUrl": "https://radiotipaza.ice.infomaniak.ch/tipaza.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -593,7 +593,7 @@
   {
     "id": "ra43",
     "name": "Radio Mila إذاعــة ميلة",
-    "streamUrl": "https://radiomila.ice.infomaniak.ch/mila.mp3  ",
+    "streamUrl": "https://radiomila.ice.infomaniak.ch/mila.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -601,7 +601,7 @@
   {
     "id": "ra44",
     "name": "Radio AinDefla إذاعــة عين الدفلى",
-    "streamUrl": "https://radioaindefla.ice.infomaniak.ch/aindefla.mp3  ",
+    "streamUrl": "https://radioaindefla.ice.infomaniak.ch/aindefla.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -609,7 +609,7 @@
   {
     "id": "ra45",
     "name": "Radio Naama إذاعــة النعامة",
-    "streamUrl": "https://radionaama.ice.infomaniak.ch/naama.mp3  ",
+    "streamUrl": "https://radionaama.ice.infomaniak.ch/naama.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -617,7 +617,7 @@
   {
     "id": "ra46",
     "name": "Radio Timouchent إذاعــة تموشنت",
-    "streamUrl": "https://radioaintimouchent.ice.infomaniak.ch/aintimouchent.mp3  ",
+    "streamUrl": "https://radioaintimouchent.ice.infomaniak.ch/aintimouchent.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -625,7 +625,7 @@
   {
     "id": "ra47",
     "name": "Radio Ghardaia إذاعــة غرداية",
-    "streamUrl": "https://radioghardaia.ice.infomaniak.ch/ghardaia.mp3  ",
+    "streamUrl": "https://radioghardaia.ice.infomaniak.ch/ghardaia.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
@@ -633,7 +633,7 @@
   {
     "id": "ra48",
     "name": "Radio Relizan إذاعــة غليزان",
-    "streamUrl": "https://radiorelizan.ice.infomaniak.ch/relizan.mp3  ",
+    "streamUrl": "https://radiorelizan.ice.infomaniak.ch/relizan.mp3",
     "frequency": null,
     "address": "Algeria",
     "province": 6
