@@ -3,8 +3,8 @@
     "id": "cora",
     "name": "Radio Quoran Kareem إذاعــة القرآن الكريم",
     "streamUrl": "http://s2.voscast.com:12312/;",
-    "frequency": 90.0,
-    "address": "Algeria",
+    "frequency": null,
+    "address": null,
     "province": 1
   },
   {
